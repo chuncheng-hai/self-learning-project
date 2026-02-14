@@ -2,35 +2,23 @@
 # Obsidian
 # ======================
 
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
 .obsidian/cache/
+.obsidian/workspace*
 .obsidian/plugins/
-.obsidian/graph.json
+.obsidian/themes/
 
-# 保留核心配置（可选）
+# 可同步配置
 !.obsidian/app.json
 !.obsidian/appearance.json
 !.obsidian/hotkeys.json
 
-# ======================
-# OS files
-# ======================
+# 不稳定配置（建议忽略）
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
 
+# ======================
+# System
+# ======================
 .DS_Store
 Thumbs.db
-
-# ======================
-# Editor
-# ======================
-
-.vscode/
-.idea/
-
-# ======================
-# Temp
-# ======================
-
-*.log
-*.tmp
 
