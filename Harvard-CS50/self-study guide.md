@@ -1,5 +1,6 @@
 ## 课程介绍
-![[CS50-logo.gif]]
+
+<img src="../assets/cs50/cs50-logo.gif" width="100">
 
 
 ## 学习方法
