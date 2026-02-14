@@ -1,48 +1,47 @@
 # 我的自学之路
 本仓库记录笔者自学的过程
-`<progress value="1" max="7"></progress> 1/7 `HTML + Markdown 混写实现进度条
 ## 计算机科学
 
-| 课程/书籍名称                                                      | 进度                                          | 当前所学  |
-| ------------------------------------------------------------ | ------------------------------------------- | ----- |
-| MIT 18.01: Single Variable Calculus                          |                                             |       |
-| MIT 18.02: Multivariable Calculus                            |                                             |       |
-| MIT 18.06: Linear Algebra                                    |                                             |       |
-| MIT 18.05 Introduction to Probability and Statistics         |                                             |       |
-| MIT 6.042J: Mathematics for Computer Science                 |                                             |       |
-| MIT 6.050J: Information theory and Entropy                   |                                             |       |
-| Crash Course: Computer Science                               |                                             |       |
-| MIT Missing-Semester                                         |                                             |       |
-| UCB: Sysadmin DeCal                                          |                                             |       |
-| Harvard CS50: This is CS50x                                  | <progress value="1" max="7"></progress> 1/7 | week0 |
-| Python for Everybody                                         |                                             |       |
-| Harvard CS50P Introduction to Programming with Python        |                                             |       |
-| UCB CS61A: Structure and Interpretation of Computer Programs |                                             |       |
-| SUSTech CS205 C/C++ Program Design                           |                                             |       |
-| Stanford CS106B/X: Programming Abstractions in C++           |                                             |       |
-| CS110L: Safety in Systems Programming                        |                                             |       |
-| MIT 6.031: Software Construction                             |                                             |       |
-| CS61B: Data Structures and Algorithms                        |                                             |       |
-| CMU 15-213 Introduction to Computer Systems (ICS)            |                                             |       |
-| CS61C: Great Ideas in Computer Architecture                  |                                             |       |
-| NJU OS: Operating System Design and Implementation           |                                             |       |
-| MIT 6.S081: Operating System Engineering                     |                                             |       |
-| Stanford CS144：Introduction to Computer Networking           |                                             |       |
-| CMU 15-445: Database Systems                                 |                                             |       |
-| Coursera: Machine Learning                                   |                                             |       |
-| CS50’s Introduction to AI with Python                        |                                             |       |
-| CS231n: CNN for Visual Recognition                           |                                             |       |
-| CS224n: Natural Language Processing                          |                                             |       |
-| Stanford CS336: Language Modeling from Scratch               |                                             |       |
-| PKU 区块链技术与应用                                                 |                                             |       |
+| 课程/书籍名称                                                      | 进度  | 当前所学  |
+| ------------------------------------------------------------ | --- | ----- |
+| MIT 18.01: Single Variable Calculus                          |     |       |
+| MIT 18.02: Multivariable Calculus                            |     |       |
+| MIT 18.06: Linear Algebra                                    |     |       |
+| MIT 18.05 Introduction to Probability and Statistics         |     |       |
+| MIT 6.042J: Mathematics for Computer Science                 |     |       |
+| MIT 6.050J: Information theory and Entropy                   |     |       |
+| Crash Course: Computer Science                               |     |       |
+| MIT Missing-Semester                                         |     |       |
+| UCB: Sysadmin DeCal                                          |     |       |
+| Harvard CS50: This is CS50x                                  | 1/7 | week0 |
+| Python for Everybody                                         |     |       |
+| Harvard CS50P Introduction to Programming with Python        |     |       |
+| UCB CS61A: Structure and Interpretation of Computer Programs |     |       |
+| SUSTech CS205 C/C++ Program Design                           |     |       |
+| Stanford CS106B/X: Programming Abstractions in C++           |     |       |
+| CS110L: Safety in Systems Programming                        |     |       |
+| MIT 6.031: Software Construction                             |     |       |
+| CS61B: Data Structures and Algorithms                        |     |       |
+| CMU 15-213 Introduction to Computer Systems (ICS)            |     |       |
+| CS61C: Great Ideas in Computer Architecture                  |     |       |
+| NJU OS: Operating System Design and Implementation           |     |       |
+| MIT 6.S081: Operating System Engineering                     |     |       |
+| Stanford CS144：Introduction to Computer Networking           |     |       |
+| CMU 15-445: Database Systems                                 |     |       |
+| Coursera: Machine Learning                                   |     |       |
+| CS50’s Introduction to AI with Python                        |     |       |
+| CS231n: CNN for Visual Recognition                           |     |       |
+| CS224n: Natural Language Processing                          |     |       |
+| Stanford CS336: Language Modeling from Scratch               |     |       |
+| PKU 区块链技术与应用                                                 |     |       |
 ## 数学
 
-| 课程/书籍名称   | 进度                                              | 当前所学  |
-| --------- | ----------------------------------------------- | ----- |
-| 数学分析(陈纪修) | <progress value="3" max="198"></progress> 3/198 | 映射与函数 |
-| 高等代数(丘维声) |                                                 |       |
-| 实分析       |                                                 |       |
-| 抽象代数      |                                                 |       |
+| 课程/书籍名称   | 进度    | 当前所学  |
+| --------- | ----- | ----- |
+| 数学分析(陈纪修) | 3/198 | 映射与函数 |
+| 高等代数(丘维声) |       |       |
+| 实分析       |       |       |
+| 抽象代数      |       |       |
 
 ## 经济学
 
