@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Cupertino"
+  "cssTheme": "Cupertino",
+  "showViewHeader": false,
+  "translucency": true
 }
