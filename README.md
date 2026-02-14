@@ -1,2 +1,2 @@
-# self-learning-project
-self-learning-project
+# 我的CS自学之路
+本仓库用户记录笔者自学CS的过程
