@@ -1,9 +1,9 @@
 root = true
 
 [*]
-charset = utf-8
-end_of_line = lf
-insert_final_newline = true
-indent_style = space
-indent_size = 2
-
+charset = utf-8                  # 文件编码：UTF-8，支持中文和特殊字符
+end_of_line = lf                 # 换行符：LF（Unix风格），兼容macOS/Linux/Windows WSL
+insert_final_newline = true      # 文件末尾自动插入空行，符合POSIX标准，避免git diff警告
+indent_style = space             # 缩进使用空格而非Tab，确保跨编辑器显示一致
+indent_size = 2                  # 缩进宽度：2个空格（前端/Markdown常用）
+trim_trailing_whitespace = false # 保留行尾空格——Markdown中两个空格=强制换行，避免obsidian与github换行显示异常
