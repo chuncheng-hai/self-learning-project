@@ -38,6 +38,8 @@
 | MIT 18.03: Differential Equations            |     |      |      |
 | UA Stat571: Probability and Measure          |     |      |      |
 | NTHU STAT5191: Applied Multivariate Analysis |     |      |      |
+|                                              |     |      |      |
+|                                              |     |      |      |
 
 参考资料
 - [https://xuankaiwang.github.io/](https://xuankaiwang.github.io/)
@@ -45,55 +47,65 @@
 ## CS 计算机科学
 
 
-| 课程/书籍名称                                                                                                                                                                         | 进度  | 当前所学  | 学习产出               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ----- | ------------------ |
-| [MIT 18.01: Single Variable Calculus](https://www.bilibili.com/video/BV1mx411S7M3/?spm_id_from=333.337.search-card.all.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)        |     |       |                    |
-| [MIT 18.02: Multivariable Calculus](https://www.bilibili.com/video/BV1PKaDe9ETw/?spm_id_from=333.337.search-card.all.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)          |     |       |                    |
-| [3Blue1Brown - Essence of Calculus](bilibili.com/video/BV1qW411N7FU/?spm_id_from=333.337.search-card.all.click)                                                                 |     |       |                    |
-| [MIT 18.06: Linear Algebra](https://www.youtube.com/watch?v=J7DzL2_Na80)                                                                                                        |     |       |                    |
-| [3Blue1Brown - Essence of Linear Algebra](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.1387.upload.video_card.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2) |     |       |                    |
-| [Stanford CS109 Probability for Computer Scientists](https://www.bilibili.com/video/BV1DNPBeZE5i/?spm_id_from=333.1391.0.0&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)          |     |       |                    |
-| [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1LE411B7ir)                                                                 |     |       |                    |
-| MIT 18.05 Introduction to Probability and Statistics<br>                                                                                                                        |     |       |                    |
-| MIT 6.042J: Mathematics for Computer Science<br>                                                                                                                                |     |       |                    |
-| MIT 6.050J: Information theory and Entropy                                                                                                                                      |     |       |                    |
-| UCB CS70 : discrete Math and probability theory                                                                                                                                 |     |       |                    |
-| MIT18.330 : Introduction to numerical analysis                                                                                                                                  |     |       |                    |
-| Crash Course: Computer Science                                                                                                                                                  |     |       |                    |
-| MIT Missing-Semester                                                                                                                                                            |     |       |                    |
-| UCB: Sysadmin DeCal                                                                                                                                                             |     |       |                    |
-| Harvard CS50: This is CS50x                                                                                                                                                     | 1/7 | week0 |                    |
-| Python for Everybody                                                                                                                                                            |     |       |                    |
-| Harvard CS50P Introduction to Programming with Python                                                                                                                           |     |       |                    |
-| UCB CS61A: Structure and Interpretation of Computer Programs                                                                                                                    |     |       |                    |
-| [SUSTech CS205 C/C++ Program Design](https://www.bilibili.com/video/BV1Vf4y1P7pq?spm_id_from=333.788.videopod.episodes&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)              |     |       |                    |
-| Stanford CS106B/X: Programming Abstractions in C++                                                                                                                              |     |       |                    |
-| Stanford CS106L: Standard C++ Programming                                                                                                                                       |     |       |                    |
-| CS110L: Safety in Systems Programming                                                                                                                                           |     |       |                    |
-| MIT 6.031: Software Construction                                                                                                                                                |     |       |                    |
-| CS61B: Data Structures and Algorithms                                                                                                                                           |     |       |                    |
-| Coursera: Algorithms I & II                                                                                                                                                     |     |       |                    |
-| CMU 15-213 Introduction to Computer Systems (ICS)                                                                                                                               |     |       |                    |
-| CS61C: Great Ideas in Computer Architecture                                                                                                                                     |     |       |                    |
-| NJU OS: Operating System Design and Implementation                                                                                                                              |     |       |                    |
-| MIT 6.S081: Operating System Engineering                                                                                                                                        |     |       |                    |
-| UCB CS162: Operating System                                                                                                                                                     |     |       |                    |
-| MIT6.824: Distributed System                                                                                                                                                    |     |       |                    |
-| Stanford CS143: Compilers                                                                                                                                                       |     |       |                    |
-| Stanford CS144：Introduction to Computer Networking                                                                                                                              |     |       |                    |
-| [StanfordOnline: Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)            |     |       |                    |
-| CMU 15-445: Database Systems                                                                                                                                                    |     |       |                    |
-| PostgreSQL for Everybody Specialization                                                                                                                                         |     |       |                    |
-| UCB CS186: Introduction to Database System                                                                                                                                      |     |       |                    |
-| Coursera: Machine Learning                                                                                                                                                      |     |       |                    |
-| CS50’s Introduction to AI with Python                                                                                                                                           |     |       |                    |
-| UCB CS188 Introduction to Artificial Intelligence                                                                                                                               |     |       |                    |
-| CS231n: CNN for Visual Recognition                                                                                                                                              |     |       |                    |
-| CS224n: Natural Language Processing                                                                                                                                             |     |       |                    |
-| Stanford CS336: Language Modeling from Scratch                                                                                                                                  |     |       |                    |
-| [PKU 区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.1391.0.0&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                |     |       |                    |
-| CSE 251 Programming in C                                                                                                                                                        |     |       | 13 Steps+4 Project |
-| [AI for everyone](https://www.bilibili.com/video/BV1yC4y127uj/?vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                                      |     |       |                    |
+| 课程/书籍名称                                                                                                                                                                                                            | 进度  | 当前所学  | 学习产出               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | ----- | ------------------ |
+| [MIT 18.01: Single Variable Calculus](https://www.bilibili.com/video/BV1mx411S7M3/?spm_id_from=333.337.search-card.all.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                           |     |       |                    |
+| [MIT 18.02: Multivariable Calculus](https://www.bilibili.com/video/BV1PKaDe9ETw/?spm_id_from=333.337.search-card.all.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                             |     |       |                    |
+| [3Blue1Brown - Essence of Calculus](bilibili.com/video/BV1qW411N7FU/?spm_id_from=333.337.search-card.all.click)                                                                                                    |     |       |                    |
+| [MIT 18.06: Linear Algebra](https://www.youtube.com/watch?v=J7DzL2_Na80)                                                                                                                                           |     |       |                    |
+| [3Blue1Brown - Essence of Linear Algebra](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.1387.upload.video_card.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                    |     |       |                    |
+| [Stanford CS109 Probability for Computer Scientists](https://www.bilibili.com/video/BV1DNPBeZE5i/?spm_id_from=333.1391.0.0&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                             |     |       |                    |
+| [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1LE411B7ir)                                                                                                    |     |       |                    |
+| MIT 18.05 Introduction to Probability and Statistics<br>                                                                                                                                                           |     |       |                    |
+| MIT 6.042J: Mathematics for Computer Science<br>                                                                                                                                                                   |     |       |                    |
+| MIT 6.050J: Information theory and Entropy                                                                                                                                                                         |     |       |                    |
+| UCB CS70 : discrete Math and probability theory                                                                                                                                                                    |     |       |                    |
+| MIT18.330 : Introduction to numerical analysis                                                                                                                                                                     |     |       |                    |
+| Crash Course: Computer Science                                                                                                                                                                                     |     |       |                    |
+| MIT Missing-Semester                                                                                                                                                                                               |     |       |                    |
+| UCB: Sysadmin DeCal                                                                                                                                                                                                |     |       |                    |
+| Harvard CS50: This is CS50x                                                                                                                                                                                        | 1/7 | week0 |                    |
+| Python for Everybody                                                                                                                                                                                               |     |       |                    |
+| Harvard CS50P Introduction to Programming with Python                                                                                                                                                              |     |       |                    |
+| UCB CS61A: Structure and Interpretation of Computer Programs                                                                                                                                                       |     |       |                    |
+| [SUSTech CS205 C/C++ Program Design](https://www.bilibili.com/video/BV1Vf4y1P7pq?spm_id_from=333.788.videopod.episodes&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                 |     |       |                    |
+| Stanford CS106B/X: Programming Abstractions in C++                                                                                                                                                                 |     |       |                    |
+| Stanford CS106L: Standard C++ Programming                                                                                                                                                                          |     |       |                    |
+| CS110L: Safety in Systems Programming                                                                                                                                                                              |     |       |                    |
+| MIT 6.031: Software Construction                                                                                                                                                                                   |     |       |                    |
+| CS61B: Data Structures and Algorithms                                                                                                                                                                              |     |       |                    |
+| Coursera: Algorithms I & II                                                                                                                                                                                        |     |       |                    |
+| CMU 15-213 Introduction to Computer Systems (ICS)                                                                                                                                                                  |     |       |                    |
+| CMU 18-447: Introduction to Computer Architecture                                                                                                                                                                  |     |       |                    |
+| CMU 15-418/15-618: Parallel Computer Architecture and Programming                                                                                                                                                  |     |       |                    |
+| Stanford CS149: Parallel Computing                                                                                                                                                                                 |     |       |                    |
+| CS61C: Great Ideas in Computer Architecture                                                                                                                                                                        |     |       |                    |
+| NJU OS: Operating System Design and Implementation                                                                                                                                                                 |     |       |                    |
+| MIT 6.S081: Operating System Engineering                                                                                                                                                                           |     |       |                    |
+| UCB CS162: Operating System                                                                                                                                                                                        |     |       |                    |
+| MIT6.824: Distributed System                                                                                                                                                                                       |     |       |                    |
+| Stanford CS143: Compilers                                                                                                                                                                                          |     |       |                    |
+| Stanford CS144：Introduction to Computer Networking                                                                                                                                                                 |     |       |                    |
+| [StanfordOnline: Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)                                               |     |       |                    |
+| CMU 15-445: Database Systems                                                                                                                                                                                       |     |       |                    |
+| PostgreSQL for Everybody Specialization                                                                                                                                                                            |     |       |                    |
+| UCB CS186: Introduction to Database System                                                                                                                                                                         |     |       |                    |
+| Coursera: Machine Learning                                                                                                                                                                                         |     |       |                    |
+| CS50’s Introduction to AI with Python                                                                                                                                                                              |     |       |                    |
+| UCB CS188 Introduction to Artificial Intelligence                                                                                                                                                                  |     |       |                    |
+| CS231n: CNN for Visual Recognition                                                                                                                                                                                 |     |       |                    |
+| CS224n: Natural Language Processing                                                                                                                                                                                |     |       |                    |
+| Stanford CS336: Language Modeling from Scratch                                                                                                                                                                     |     |       |                    |
+| [PKU 区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.1391.0.0&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                                                   |     |       |                    |
+| CSE 251 Programming in C                                                                                                                                                                                           |     |       | 13 Steps+4 Project |
+| [AI for everyone](https://www.bilibili.com/video/BV1yC4y127uj/?vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                                                                         |     |       |                    |
+| [MIT 6.001：Structure and Interpretation of Computer Programs(SICP spring-2005)](https://www.bilibili.com/video/BV1Xx41117tr?spm_id_from=333.788.videopod.episodes&vd_source=6f65e5458d8f1daecbbb1874a16d01b2&p=21) |     |       |                    |
+| MIT6.100L: Introduction to CS and Programming using Python                                                                                                                                                         |     |       |                    |
+| [C语言大师前篇系列](https://www.bilibili.com/video/BV1Ae41117Gd/?spm_id_from=333.337.search-card.all.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                                     |     |       |                    |
+| [C语言大师后篇系列](https://www.bilibili.com/video/BV1oJ4m1Y7ry/?spm_id_from=333.337.search-card.all.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                                     |     |       |                    |
+| [CS 631 Advanced Programming in the UNIX Environment(APUE)](https://www.bilibili.com/video/BV1e54y1t73h/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                |     |       |                    |
+| [Linux系统编程（李慧琴）](https://www.bilibili.com/video/BV1yJ411S7r6/?spm_id_from=333.337.search-card.all.click&vd_source=6f65e5458d8f1daecbbb1874a16d01b2)                                                                |     |       |                    |
+| 《MySQL必知必会》                                                                                                                                                                                                        |     |       |                    |
 
 
 参考资料
@@ -174,7 +186,16 @@
 | MIT 24.00 Problems of Philosophy(哲学问题)                                                                                                         |     |      |      |
 | MIT 24.02 Moral Problems (道德问题)                                                                                                                |     |      |      |
 | MIT 24.200 Ancient Philosophy (古代哲学)                                                                                                           |     |      |      |
+|                                                                                                                                                |     |      |      |
 
+
+参考资料
+
+## 社会学
+| 课程/书籍名称                               | 进度  | 当前所学 | 学习产出 |
+| ------------------------------------- | --- | ---- | ---- |
+| Massachusetts Institute of Technology |     |      |      |
+| STS.085 Technology in Society         |     |      |      |
 
 参考资料
 
