@@ -1,5 +1,11 @@
 # 我的自学之路
 本仓库记录笔者自学的过程
+PPE
+## 批判性思维
+
+| 课程/书籍名称                                                                                                   | 进度  | 当前所学 | 学习产出 |
+| --------------------------------------------------------------------------------------------------------- | --- | ---- | ---- |
+| [批判性思维——方法和实践(2026春)](https://www.xuetangx.com/course/thu01011003963/29596212?channel=i.area.learn_title) |     |      |      |
 
 ## ESL
 | 课程/书籍名称                                                           | 进度  | 当前所学 | 学习产出 |
@@ -21,13 +27,16 @@
 参考资料
 
 ## Logic 逻辑学
-| 课程/书籍名称                                                                             | 进度  | 当前所学 | 学习产出 |
-| ----------------------------------------------------------------------------------- | --- | ---- | ---- |
-| [十五分钟逻辑学](https://www.youtube.com/playlist?list=PLO-VYxpl-IZxxO9mPCmCP_3wTOHjt7Efh) |     |      |      |
-| [*Logic: A Very Short Introduction*](https://github.com/wxflogic/logic_vsi)         |     |      |      |
-| 《简单的逻辑学》                                                                            |     |      |      |
-| 《论证是一门学问》                                                                           |     |      |      |
-| [Stanford Introduction to Logic](https://www.coursera.org/learn/logic-introduction) |     |      |      |
+
+| 课程/书籍名称                                                                                                                             | 进度  | 当前所学 | 学习产出 |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --- | ---- | ---- |
+| [十五分钟逻辑学](https://www.youtube.com/playlist?list=PLO-VYxpl-IZxxO9mPCmCP_3wTOHjt7Efh)                                                 |     |      |      |
+| [*Logic: A Very Short Introduction*](https://github.com/wxflogic/logic_vsi)                                                         |     |      |      |
+| 《简单的逻辑学》                                                                                                                            |     |      |      |
+| 《论证是一门学问》                                                                                                                           |     |      |      |
+|                                                                                                                                     |     |      |      |
+| [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke) |     |      |      |
+| [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)                                                          |     |      |      |
 
 参考资料
 
@@ -155,6 +164,10 @@
 参考资料
 
 ## ECON 经济学
+微观经济、宏观经济、计量经济
+数理经济学
+行为经济学 损失厌恶
+宪政经济学
 
 | 课程/书籍名称                                                          | 进度  | 当前所学 | 学习产出 |
 | ---------------------------------------------------------------- | --- | ---- | ---- |
@@ -196,8 +209,13 @@
 | ------------------------------------- | --- | ---- | ---- |
 | Massachusetts Institute of Technology |     |      |      |
 | STS.085 Technology in Society         |     |      |      |
+| 《见树又见林》                               |     |      |      |
 
 参考资料
+## 心理学
+社会认知心理学
+进化心理学
+
 
 ## 乐理
 
