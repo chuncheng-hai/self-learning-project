@@ -3,9 +3,13 @@
 PPE
 ## 批判性思维
 
-| 课程/书籍名称                                                                                                   | 进度  | 当前所学 | 学习产出 |
-| --------------------------------------------------------------------------------------------------------- | --- | ---- | ---- |
-| [批判性思维——方法和实践(2026春)](https://www.xuetangx.com/course/thu01011003963/29596212?channel=i.area.learn_title) |     |      |      |
+| 课程/书籍名称                                                                                                   | 进度   | 当前所学 | 学习产出           |
+| --------------------------------------------------------------------------------------------------------- | ---- | ---- | -------------- |
+| [批判性思维——方法和实践(2026春)](https://www.xuetangx.com/course/thu01011003963/29596212?channel=i.area.learn_title) | 3/16 | 第三章  | [[[批判性思维自学指南]] |
+| [十五分钟逻辑学](https://www.youtube.com/playlist?list=PLO-VYxpl-IZxxO9mPCmCP_3wTOHjt7Efh)                       |      |      |                |
+| 《简单的逻辑学》                                                                                                  |      |      |                |
+| 《论证是一门学问》                                                                                                 |      |      |                |
+| 《系统之美》                                                                                                    |      |      |                |
 
 ## ESL
 | 课程/书籍名称                                                           | 进度  | 当前所学 | 学习产出 |
@@ -30,13 +34,11 @@ PPE
 
 | 课程/书籍名称                                                                                                                             | 进度  | 当前所学 | 学习产出 |
 | ----------------------------------------------------------------------------------------------------------------------------------- | --- | ---- | ---- |
-| [十五分钟逻辑学](https://www.youtube.com/playlist?list=PLO-VYxpl-IZxxO9mPCmCP_3wTOHjt7Efh)                                                 |     |      |      |
-| [*Logic: A Very Short Introduction*](https://github.com/wxflogic/logic_vsi)                                                         |     |      |      |
-| 《简单的逻辑学》                                                                                                                            |     |      |      |
-| 《论证是一门学问》                                                                                                                           |     |      |      |
-|                                                                                                                                     |     |      |      |
+| [牛津通识读本：简明逻辑学](https://github.com/wxflogic/logic_vsi)                                                                               |     |      |      |
 | [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke) |     |      |      |
 | [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)                                                          |     |      |      |
+| 《简明逻辑学二十讲》                                                                                                                          |     |      |      |
+| Language, Proof, and Logic (LPL)                                                                                                    |     |      |      |
 
 参考资料
 
@@ -47,8 +49,7 @@ PPE
 | MIT 18.03: Differential Equations            |     |      |      |
 | UA Stat571: Probability and Measure          |     |      |      |
 | NTHU STAT5191: Applied Multivariate Analysis |     |      |      |
-|                                              |     |      |      |
-|                                              |     |      |      |
+
 
 参考资料
 - [https://xuankaiwang.github.io/](https://xuankaiwang.github.io/)
@@ -199,7 +200,8 @@ PPE
 | MIT 24.00 Problems of Philosophy(哲学问题)                                                                                                         |     |      |      |
 | MIT 24.02 Moral Problems (道德问题)                                                                                                                |     |      |      |
 | MIT 24.200 Ancient Philosophy (古代哲学)                                                                                                           |     |      |      |
-|                                                                                                                                                |     |      |      |
+| 《西方哲学十五讲》                                                                                                                                      |     |      |      |
+
 
 
 参考资料
